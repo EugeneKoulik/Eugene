@@ -1,5 +1,5 @@
 <<<<<<< HEAD
 Helloòîèîòî, my exchange family! My name is Zheniaíôíôí. I am 17 years old. 
-I study as a programmer at the country's fst electrotechnical 
+I study as a programmer at the country's  
 =======
 >>>>>>> d0456ecc5f72db71c98ebf98d0db93a0a0b6e122
